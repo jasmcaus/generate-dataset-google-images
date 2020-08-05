@@ -2,7 +2,7 @@
  * simulate a right-click event so we can grab the image URL using the
  * context menu alleviating the need to navigate to another page
  *
- * attributed to @jmiserez: http://pyimg.co/9qe7y
+ * attributed: https://stackoverflow.com/questions/7914684/trigger-right-click-using-pure-javascript/52878847#52878847
  *
  * @param   {object}  element  DOM Element
  *

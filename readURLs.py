@@ -40,7 +40,7 @@ def doesExist(output_DIR):
             if image is None:
                 delete = True
 
-        # if OpenCV cannot load the image then the image is likely corrupt so we delete it
+        # if OpenCV cannot load the image, then the image is likely corrupt so we delete it
         except:
             delete = True
 
